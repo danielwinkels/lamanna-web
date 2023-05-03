@@ -23,6 +23,9 @@
     position: relative;
     height: 100vh;
     overflow: hidden;
+    background-image: url('background-mobile.jpg');
+    background-size: cover;
+    background-position: center;
   }
   
   .parallax video {
